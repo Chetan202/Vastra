@@ -1,0 +1,175 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Tera:wght@400;700&display=swap');
+
+
+.home{
+    
+    display:flex;
+    flex-direction: column;
+    padding: 0;
+}
+
+
+.level1{
+    display: flex;
+    flex-direction: row;
+    border-bottom: solid black;
+    border-left: solid black;
+    /* border-top: solid black; */
+    
+}
+
+.lines{
+    background-color: #F9F3FC;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.lines p{
+    padding-left: 1rem;
+}
+
+.lines h1{
+    font-size: 5rem;
+}
+
+.level1_img_div{
+    border-left: solid  black;
+    background-color: white;
+    padding: 2rem;
+}
+
+
+
+  .level2{
+    display: flex;
+    border-bottom: solid black;
+    
+}
+
+.level3{
+  display: flex;
+  width: 100%;
+  height: auto;
+}
+
+.flagship{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+  padding: 3rem 3rem 3rem ;
+}
+
+.flagship h2{
+  font-family: 'Lexend Tera', sans-serif;
+}
+
+.flagship-head{
+  font-weight: 800;
+  font-size: 3rem;
+}
+
+.flagship-text{
+  padding: 2rem;
+  word-wrap: break-word; 
+  width: 30rem;
+}
+
+.flagship-body{
+display: flex;
+flex-direction:row ;
+background-color: #121B1A;
+width: 100%s;
+min-height: 20rem;
+color: #ffff;
+align-items: center;
+padding: 1rem;
+}
+
+
+.level6 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  
+}
+
+.Bottom{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+ 
+}
+
+.box{
+  display: flex;
+  flex-direction: column;
+  background-color: #FBF5FE;
+  text-align: center;
+  align-items: center;
+  border:solid black;
+  padding: 2rem;
+}
+.discover{
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #f5f5f5;
+    border: none;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    position: relative;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    transition: padding-right 0.3s ease;
+    border: solid black;
+    width: 50%;
+  }
+  
+  .discover::after {
+    content: '→'; /* Unicode arrow character */
+    position: absolute;
+    opacity: 0;
+    right: 10px;
+    transition: opacity 0.3s ease, right 0.3s ease;
+  }
+  
+  .discover:hover {
+    padding-right: 30px; 
+    box-shadow: 5px 10px;
+  }
+  
+  .discover:hover::after {
+    opacity: 1;
+    right: 10px; 
+}
+
+.Footer{
+  display: flex;
+  flex-direction:row ;
+  justify-content: space-around;
+  align-items: center;
+  
+}
+
+#email {
+  width: 200px;
+  padding: 8px;
+  border: 1px solid #ccc; 
+}
+
+#email:focus{
+  outline: none;
+}
+
+
+button {
+  padding: 8px 16px;
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
+  border: solid black;
+  cursor: pointer;
+}
+
+

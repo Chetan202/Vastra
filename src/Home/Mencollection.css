@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Tera:wght@400;700&display=swap');
+
+
+
+.Mencollection {
+    padding: 20px;
+  }
+  
+  
+  .TitleMen {
+    /* text-align: center; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    padding: 2rem;
+  }
+ .TitleMen div{
+  font-family: 'Lexend Tera', sans-serif;
+  font-weight: 800;
+ }
+
+.MenButton {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #f5f5f5;
+    border: none;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    position: relative;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    transition: padding-right 0.3s ease;
+    border: solid black;
+  }
+  
+  .MenButton::after {
+    content: '→'; /* Unicode arrow character */
+    position: absolute;
+    opacity: 0;
+    right: 10px;
+    transition: opacity 0.3s ease, right 0.3s ease;
+  }
+  
+  .MenButton:hover {
+    padding-right: 30px; 
+    box-shadow: 5px 10px;
+  }
+  
+  .MenButton:hover::after {
+    opacity: 1;
+    right: 10px; /* Position the arrow inside the button */  
+    
+}
+  .product-listmen {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .product-cardmen {
+    padding: 10px;
+    width: calc(33.333% - 20px); /* Adjust width as needed */
+    box-sizing: border-box;
+    text-align: center;
+  }
+  
+  .product-imagemen {
+    max-width: 80%;
+    height: auto;
+    border: solid black;
+    transition: box-shadow 0.3s ease;
+  }
+  .product-imagemen:hover{
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);  }
+  
+  .product-infomen {
+    margin-top: 10px;
+  }
+ 

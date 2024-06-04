@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'Futura';
+    src: url('./fonts/Futura-Bold.woff2') format('woff2'),
+         url('./fonts/Futura-Bold.woff') format('woff'),
+         url('./fonts/Futura-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+.slider-container {
+    overflow: hidden;
+    white-space: nowrap;
+    position: relative;
+    padding: 2rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.slider-content {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.Boxlines {
+    display: flex;
+    flex-direction: column;
+    white-space: normal;
+    overflow: visible; 
+}
+
+.slider-image {
+    margin-right: 10px;
+    width: 6rem;
+    height: 5rem;
+    border-radius: .5rem;
+}
+
+.testimonial-text {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 1em;
+    margin: 0;
+}
+
+
+.hypebeast {
+    font-family: Impact, sans-serif;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.proper {
+    font-family: Futura, sans-serif;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.vogue {
+    font-family: Arial, sans-serif;
+    font-size: 1rem;
+    font-weight: bold;
+}

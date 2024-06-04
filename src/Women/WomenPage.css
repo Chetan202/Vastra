@@ -1,0 +1,36 @@
+.WomenPage {
+  padding: 20px;
+}
+
+.TitleWomen {
+  margin-bottom: 20px;
+}
+
+.product-list-women {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.product-card-women {
+  
+  padding: 10px;
+  width: 200px;
+  text-align: center;
+  
+}
+
+.product-image-women:hover{
+  border: 1px solid black;
+  box-shadow: 2px 2px;
+  
+}
+
+.product-image-women {
+  max-width: 100%;
+  height: auto;
+}
+
+.product-info-women {
+  margin-top: 10px;
+}

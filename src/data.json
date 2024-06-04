@@ -1,0 +1,75 @@
+{ "women": [
+    {
+        "id": 1,
+        "name": "WOMEN TOP",
+        "image":"https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/productimage/2019/6/16/d0d54151-be63-4ef9-a75c-bc0411bb34d51560631218066-1.jpg",
+        "price": 99.00
+    },{
+        "id": 2,
+        "name": "WOMEN TOP",
+        "image":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/22283762/2023/3/10/f4911411-78a7-4191-bebf-0843899d17a41678457596916AASKPinkColourblockedCrepeFitFlareMidiDress1.jpg",
+        "price": 99.00
+    },{
+        "id": 3,
+        "name": "WOMEN TOP",
+        "image":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25226678/2023/9/29/0a74001f-02df-4e93-b2b9-4c3ed86053741695927103552PumaWomenRibbedSheathDresses1.jpg",
+        "price": 99.00
+    },{
+        "id": 4,
+        "name": "WOMEN TOP",
+        "image":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24000860/2023/7/13/2a28b354-99d5-46fc-a79a-2ea109ed93191689243495254SangriaPrintedA-LineDresses1.jpg",
+        "price": 99.00
+    },{
+        "id": 5,
+        "name": "WOMEN TOP",
+        "image":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/20491856/2022/11/16/8f35b349-8cb1-4eec-a2bf-13249ba55fb11668599670415-HRX-By-Hrithik-Roshan-Women-Charcoal-Heather-Solid-Spread-Co-1.jpg",
+        "price": 99.00
+    },{
+        "id": 6,
+        "name": "WOMEN TOP",
+        "image":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/productimage/2020/3/18/a7a51811-7969-4167-a5b4-7ca2b1f067d71584486487281-1.jpg",
+        "price": 99.00
+    },{
+        "id": 7,
+        "name": "WOMEN TOP",
+        "image":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/12033998/2022/3/15/debd144e-bc12-4823-a4f9-7234453d3af21647326635903-Tokyo-Talkies-Women-Sage-Green-Solid-Basic-Jumpsuit-47516473-1.jpg",
+        "price": 99.00
+    },{
+        "id": 8,
+        "name": "WOMEN TOP",
+        "image":"https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/27959294/2024/2/29/64148c43-1980-41dc-8e67-be43688d56f91709222918827StyleCastCheckedShirtDress1.jpg",
+        "price": 99.00
+    }
+    ],
+    "men":[
+        {
+          "id": 1,
+          "name": "Men's Shirt",
+          "image": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/15746190/2021/10/6/f14ff730-3c65-490d-a56a-9b16f23a285b1633525654463RelaxedFitSweatshirt1.jpg",
+          "price": 29.99
+        },
+        {
+          "id": 2,
+          "name": "Men's Jeans",
+          "image": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25745262/2023/11/3/ac43db2d-5003-4723-87f9-5043a83a23c41699005479221RelaxedFitZip-throughhoodie1.jpg",
+          "price": 49.99
+        },
+        {
+          "id": 3,
+          "name": "Men's Jacket",
+          "image": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/24305966/2023/12/11/5d96be18-b4bd-476b-b421-3f2454c656111702293346314-US-Polo-Assn-Brand-Logo-Printed-Colourblocked-Sweatshirt-582-1.jpg",
+          "price": 79.99
+        },{
+            "id": 3,
+            "name": "Men's Jacket",
+            "image": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/29078468/2024/5/14/ec55e37e-89be-4eae-968a-af88fe1e2b311715668092449-Allen-Solly-Men-Shirts-5461715668092021-1.jpg",
+            "price": 79.99
+          },{
+            "id": 5,
+            "name": "Men's Jacket",
+            "image": "https://assets.myntassets.com/f_webp,dpr_1.5,q_60,w_210,c_limit,fl_progressive/assets/images/25808458/2023/12/19/64a2ac63-fc44-468b-9029-9b6916a1f4a51702975480102-Levis-Men-Sweatshirts-8261702975479718-1.jpg",
+            "price": 79.99
+          }
+      ]
+      
+}
