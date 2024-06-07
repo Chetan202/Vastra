@@ -1,6 +1,8 @@
 This is an ongoing project ~VASTRA 
 FrontEnd of the website using React JS and CSS
+Inspiered By :
 
+https://dribbble.com/shots/20586716-Woman-Man-Fashion-Website
 
 
 
